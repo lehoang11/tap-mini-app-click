@@ -41,6 +41,7 @@ API.
 Step 1: Create a new Telegram Bot and get the bot token and add it to the api server.
 
 Step 2: Create a Realtime Database on Firebase and add it to adminsdk-firebase.json
+https://console.firebase.google.com/
 
 Run: npm run dev
 
@@ -50,3 +51,13 @@ Mini app client .
 copy file .env.example to .env
 
 Run: npm run start
+
+
+
+
+
+Donate
+
+Ton : UQB1IEqMQo_l1xRCU02D7FPgKdqLZNl8dDwJWOsAyRXad3YC
+
+BSC, ETH : 0x1B22C7bD50C7807c7642f4D0Ec732fC16B278789
