@@ -13,7 +13,7 @@ bot.start((ctx) => {
         inline_keyboard: [
           [{
             text: 'Play Now! 🎡',
-            web_app: { url: '/' }
+            web_app: { url: '/mini app url' }
           }],
           [{ text: 'Show Profile 🌀', callback_data: 'show_profile' }]
         ]
