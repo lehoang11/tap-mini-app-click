@@ -37,10 +37,16 @@ Web3Hub:
 Setup:
 -------------
 API.
+
 Step 1: Create a new Telegram Bot and get the bot token and add it to the api server.
+
 Step 2: Create a Realtime Database on Firebase and add it to adminsdk-firebase.json
+
 Run: npm run dev
+
 ------------------
 Mini app client .
+
 copy file .env.example to .env
+
 Run: npm run start
